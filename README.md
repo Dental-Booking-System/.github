@@ -1,1 +1,1 @@
-# .github
+# Dental Booking App
