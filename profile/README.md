@@ -5,7 +5,7 @@ This is a multi-platform system designed to streamline appointment booking and c
 ## Projects Overview
 
 ### 1. **Dental Booking Mobile Client**
-- **Repository**: [Dental Booking Mobile](https://github.com/Dental-Booking-System/Dental-Booking-Client)
+- **Repository**: [Dental Booking Client](https://github.com/Dental-Booking-System/Dental-Booking-Client)
 - **Description**: A React Native mobile application that allows patients to log in, browse dental profiles, and book appointments conveniently from their mobile devices.
 
 ### 2. **Dental Booking Admin Web App**
